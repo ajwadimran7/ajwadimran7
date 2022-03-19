@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mian Ajwad Imran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Tools Programmer / Technical Artist</h3>
 
-- 🔭 I’m currently working on **Multiplayer VR App**
+- 🔭 I’m currently working on **UE4 - Multiplayer VR App**
 
 - 🌱 I’m currently learning **Game Engine Development**
 
-- 📝 I write articles on [https://www.ajwadimran.com/blog](https://www.ajwadimran.com/blog)
-
-- 📫 How to reach me **ajwadimran7@gmail.com**
-
-- 📄 Know about my experiences [https://www.ajwadimran.com/AjwadImran.pdf](https://www.ajwadimran.com/AjwadImran.pdf)
+- 📄 Resume: [https://www.ajwadimran.com/AjwadImran.pdf](https://www.ajwadimran.com/AjwadImran.pdf)
 
 - ⚡ Fun fact **I am in to racing (Formula 1, Go-Karting, and Gran Turismo)**
 
