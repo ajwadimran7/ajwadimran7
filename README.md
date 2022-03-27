@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajwad</h1>
-<h3 align="center">A passionate Tools Programmer / Technical Artist</h3>
+<h3 align="center">A passionate Software / Games / Tools Developer</h3>
 
 - 🔭 I’m currently working on **UE4 - Multiplayer VR App**
 
